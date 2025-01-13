@@ -4,7 +4,7 @@
 This repo. is an official implementation of the *TSNet* , which has been accepted in the journal *Neurocomputing, 2024*. 
 
 The main pipeline is shown as the following, 
-![TSNet](figures/network.png)
+![TSNet](figures/framework.png)
 
 And some results are presented
 ![quantitative results](figures/results.png)
