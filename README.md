@@ -1,32 +1,26 @@
 # TSNet
-# [A three-stage model for camouflaged object detection](https://doi.org/10.1016/j.neucom.2022.12.004)
+# [A three-stage model for camouflaged object detection](https://doi.org/10.1016/j.neucom.2024.128784)
 
-This repo. is an official implementation of the *AFNet* , which has been accepted in the journal *Neurocomputing, 2023*. 
+This repo. is an official implementation of the *TSNet* , which has been accepted in the journal *Neurocomputing, 2024*. 
 
 The main pipeline is shown as the following, 
-![AFNet](figures/network.png)
+![TSNet](figures/network.png)
 
 And some results are presented
 ![quantitative results](figures/results.png)
 ![qualitative results](figures/results2.png)
 
-## Dependencies 
-```
->= Pytorch 1.0.0
-OpenCV-Python
-[optional] matlab
-```
-
 ## Datasets
 Training and testing datasets are available at 
 
-([Baidu](https://pan.baidu.com/s/1FfUyjr_rUo4ek8pp0DzvDw)) [code:jyb2]
+([Baidu](https://pan.baidu.com/s/1sJ8h8srJg0gmVE-kJLJ4og)) [code:q5e4]
+
+([Google](https://drive.google.com/file/d/1VS8qVUjC__4BZhB-13S3wHDWAs_-YFDI/view?usp=sharing))
 
 ## Training
 ```
 python train.py
 ```
-We provide the trained backbone [Google](https://drive.google.com/file/d/1iIEEkyOhw1i3tPXiVW7OMf-0sTKLu0pT/view?usp=sharing).
 
 ## Test
 ```
