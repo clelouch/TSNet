@@ -11,11 +11,7 @@ And some results are presented
 ![qualitative results](figures/results2.png)
 
 ## Datasets
-Training and testing datasets are available at 
-
-([Baidu](https://pan.baidu.com/s/1sJ8h8srJg0gmVE-kJLJ4og)) [code:q5e4]
-
-([Google](https://drive.google.com/file/d/1VS8qVUjC__4BZhB-13S3wHDWAs_-YFDI/view?usp=sharing))
+Training and testing datasets are available soon.
 
 ## Training
 ```
