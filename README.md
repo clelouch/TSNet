@@ -11,7 +11,11 @@ And some results are presented
 ![qualitative results](figures/results2.png)
 
 ## Datasets
-Training and testing datasets are available soon.
+Training and testing datasets are available at 
+
+([Baidu](https://pan.baidu.com/s/1sJ8h8srJg0gmVE-kJLJ4og)) [code:q5e4]
+
+([Google](https://drive.google.com/file/d/1VS8qVUjC__4BZhB-13S3wHDWAs_-YFDI/view?usp=sharing))
 
 ## Training
 ```
@@ -22,11 +26,18 @@ python train.py
 ```
  python test.py
 ```
-We provide the trained model file ([Baidu](https://pan.baidu.com/s/1j5pGbXzQ1Jpp_1-FJi6UvA)) [code:r7wc] ([Google](https://drive.google.com/file/d/1ZLhYKFrke1paKryssQJTmcvs9WPEfQGU/view?usp=share_link))
+We provide the trained model file ResNet:([Baidu](https://pan.baidu.com/s/1Mj8NIRXe8zaJMQDW8pO68g)) [code:dy4u] 
 
-The prediction results are also available ([Baidu](https://pan.baidu.com/s/1WoY4dNgqOL3O4Sa9TXa3VQ)). [code:ijj9]
+Res2Net:([Baidu](https://pan.baidu.com/s/1QOMps5qYFNOjYeu6LsiLDA)) [code:dhp5] 
 
+PVT:([Baidu](https://pan.baidu.com/s/1gSI1RBPx55DIVlwUpx8LPw)) [code:dmbh] (note: using groupnorm)
 
+The prediction results are also available ResNet:([Baidu](https://pan.baidu.com/s/1B2ayOEToxBbb6a8saJTJ4Q)). [code:rky9]
+
+Res2Net:([Baidu](https://pan.baidu.com/s/1hPpACZu6nOFFaG0Seqk3rQ)). [code:t5ry]
+
+PVT:([Baidu](https://pan.baidu.com/s/1eJReGMGXrPgnquerrB23Cw)). [code:7h4h]
+ 
 ## Citation
 Please cite the `AFNet` in your publications if it helps your research:
 ```
